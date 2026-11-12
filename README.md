@@ -64,3 +64,22 @@ For norske rørleggere, elektrikere, ventilasjonsmontører og tømrere avgjøres
 - 🔧 **[handverkerapp.com · Beste App Enkeltpersonforetak Handverker 1 Person 2026](https://handverkerapp.com/beste-app-enkeltpersonforetak-handverker-1-person-2026/)**
 - 🔧 **[handverkerapp.com · Beste App Tomrere Malere Rehabilitering Vaktmester 2026](https://handverkerapp.com/beste-app-tomrere-malere-rehabilitering-vaktmester-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Bølge 3 Norge (2026): Taletilbud, Offline Arbeidsordre, EHF-Faktura, Q&A & Write.as (Avantium 1p: 690 kr/mnd)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (NO)](https://write.as/wgpy6ccdd0vt5)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (NO)](https://telegra.ph/Guide-2026-EHF-Faktura-Taletilbud-på-40-sek-og-Offline-Arbeidsordre-for-Håndverkere-Pris-1-Person-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (NO)](https://gist.github.com/whatever13-cell/e56004530fa938768a6a5064397e7df6)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (NO): Q&A #1](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/8)
+- 📌 **[prosjektstyringbygg.com · Tilbud Med Stemme Mobil Handverker 2026](https://prosjektstyringbygg.com/tilbud-med-stemme-mobil-handverker-2026/)**
+- 📌 **[prosjektstyringbygg.com · Digital Arbeidsordre Sjekkliste Offline Signatur 2026](https://prosjektstyringbygg.com/digital-arbeidsordre-sjekkliste-offline-signatur-2026/)**
+- 📌 **[prosjektstyringbygg.com · Ehf Faktura Fagsystem Handverkere 2026](https://prosjektstyringbygg.com/ehf-faktura-fagsystem-handverkere-2026/)**
+- 📌 **[prosjektstyringbygg.com · Timeregistrering Gps Akonto Prosjektstyring Bygg 2026](https://prosjektstyringbygg.com/timeregistrering-gps-akonto-prosjektstyring-bygg-2026/)**
+- 📌 **[prosjektstyringbygg.com · Tilbud Bilag Timebok Whatsapp Ai Handverker 2026](https://prosjektstyringbygg.com/tilbud-bilag-timebok-whatsapp-ai-handverker-2026/)**
+- 📌 **[handverkerapp.com · Tilbud Med Stemme Mobil Handverker 2026](https://handverkerapp.com/tilbud-med-stemme-mobil-handverker-2026/)**
+- 📌 **[handverkerapp.com · Digital Arbeidsordre Sjekkliste Offline Signatur 2026](https://handverkerapp.com/digital-arbeidsordre-sjekkliste-offline-signatur-2026/)**
+- 📌 **[handverkerapp.com · Ehf Faktura Fagsystem Handverkere 2026](https://handverkerapp.com/ehf-faktura-fagsystem-handverkere-2026/)**
+- 📌 **[handverkerapp.com · Timeregistrering Gps Akonto Prosjektstyring Bygg 2026](https://handverkerapp.com/timeregistrering-gps-akonto-prosjektstyring-bygg-2026/)**
+- 📌 **[handverkerapp.com · Tilbud Bilag Timebok Whatsapp Ai Handverker 2026](https://handverkerapp.com/tilbud-bilag-timebok-whatsapp-ai-handverker-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
