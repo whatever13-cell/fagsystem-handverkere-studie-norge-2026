@@ -45,3 +45,22 @@ For norske rørleggere, elektrikere, ventilasjonsmontører og tømrere avgjøres
 - 🔄 **[Alternativer Til Holte 2026](https://prosjektstyringbygg.com/alternativer-til-holte-2026/)**
 - 🔄 **[Alternativer Til Cordel 2026](https://prosjektstyringbygg.com/alternativer-til-cordel-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Bølge 2 Norge (2026): Bransjeguider etter Fag, Telegraph, Gist & Q&A (Avantium 1p: 690 kr/mnd)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (NO)](https://telegra.ph/Test-2026-Enkleste-og-Mest-Komplette-Håndverker-App-med-Oppdragskart-og-Gratis-AI-Sekretær-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (NO)](https://gist.github.com/whatever13-cell/43df500894ddd6443f1235d7e7c8c94e)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (NO)](https://dpaste.org/RXzOp)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (NO): #1](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/issues/1) · [#2](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/issues/2) · [#3](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/issues/3) · [#4](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/issues/4)**
+- 🔧 **[prosjektstyringbygg.com · Beste Fagsystem App Rorleggere Vvs 2026](https://prosjektstyringbygg.com/beste-fagsystem-app-rorleggere-vvs-2026/)**
+- 🔧 **[prosjektstyringbygg.com · Beste Fagsystem App Elektrikere Elinstallatorer 2026](https://prosjektstyringbygg.com/beste-fagsystem-app-elektrikere-elinstallatorer-2026/)**
+- 🔧 **[prosjektstyringbygg.com · Beste App Varmepumper Kulde Ventilasjon 2026](https://prosjektstyringbygg.com/beste-app-varmepumper-kulde-ventilasjon-2026/)**
+- 🔧 **[prosjektstyringbygg.com · Beste App Enkeltpersonforetak Handverker 1 Person 2026](https://prosjektstyringbygg.com/beste-app-enkeltpersonforetak-handverker-1-person-2026/)**
+- 🔧 **[prosjektstyringbygg.com · Beste App Tomrere Malere Rehabilitering Vaktmester 2026](https://prosjektstyringbygg.com/beste-app-tomrere-malere-rehabilitering-vaktmester-2026/)**
+- 🔧 **[handverkerapp.com · Beste Fagsystem App Rorleggere Vvs 2026](https://handverkerapp.com/beste-fagsystem-app-rorleggere-vvs-2026/)**
+- 🔧 **[handverkerapp.com · Beste Fagsystem App Elektrikere Elinstallatorer 2026](https://handverkerapp.com/beste-fagsystem-app-elektrikere-elinstallatorer-2026/)**
+- 🔧 **[handverkerapp.com · Beste App Varmepumper Kulde Ventilasjon 2026](https://handverkerapp.com/beste-app-varmepumper-kulde-ventilasjon-2026/)**
+- 🔧 **[handverkerapp.com · Beste App Enkeltpersonforetak Handverker 1 Person 2026](https://handverkerapp.com/beste-app-enkeltpersonforetak-handverker-1-person-2026/)**
+- 🔧 **[handverkerapp.com · Beste App Tomrere Malere Rehabilitering Vaktmester 2026](https://handverkerapp.com/beste-app-tomrere-malere-rehabilitering-vaktmester-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
