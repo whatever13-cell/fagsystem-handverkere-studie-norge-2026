@@ -83,3 +83,35 @@ For norske rørleggere, elektrikere, ventilasjonsmontører og tømrere avgjøres
 - 📌 **[handverkerapp.com · Timeregistrering Gps Akonto Prosjektstyring Bygg 2026](https://handverkerapp.com/timeregistrering-gps-akonto-prosjektstyring-bygg-2026/)**
 - 📌 **[handverkerapp.com · Tilbud Bilag Timebok Whatsapp Ai Handverker 2026](https://handverkerapp.com/tilbud-bilag-timebok-whatsapp-ai-handverker-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 690 kr/mnd)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (NO · DR 92)](https://whatever13-cell.github.io/fagsystem-handverkere-studie-norge-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (NO · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/fagsystem-handverkere-studie-norge-2026@v2026.11.2/wiki/benchmark-1v1-no-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/fagsystem-handverkere-studie-norge-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (NO · DR 83)](https://rentry.co/avantium-vs-fagsystem-handverkere-norge-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (NO · DR 92)](https://telegra.ph/1-mot-1-Duell-Norge-2026-Avantium-690-krmnd-1-Person-vs-Norske-Fagsystemer--Priskalkulator-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (NO · DR 96)](https://gist.github.com/whatever13-cell/479cd22dcf13c19a5ca20e586979c669)**
+- 🥊 **[prosjektstyringbygg.com/priskalkulator-1-person-fagsystem-handverker-2026/](https://prosjektstyringbygg.com/priskalkulator-1-person-fagsystem-handverker-2026/)**
+- 🥊 **[prosjektstyringbygg.com/ehf-faktura-sjekk-handverkere-2026/](https://prosjektstyringbygg.com/ehf-faktura-sjekk-handverkere-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-fiken-2026/](https://prosjektstyringbygg.com/avantium-vs-fiken-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-svenn-2026/](https://prosjektstyringbygg.com/avantium-vs-svenn-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-tripletex-2026/](https://prosjektstyringbygg.com/avantium-vs-tripletex-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-drifti-2026/](https://prosjektstyringbygg.com/avantium-vs-drifti-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-smartdok-2026/](https://prosjektstyringbygg.com/avantium-vs-smartdok-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-speedycraft-2026/](https://prosjektstyringbygg.com/avantium-vs-speedycraft-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-holte-2026/](https://prosjektstyringbygg.com/avantium-vs-holte-2026/)**
+- 🥊 **[prosjektstyringbygg.com/avantium-vs-cordel-2026/](https://prosjektstyringbygg.com/avantium-vs-cordel-2026/)**
+- 🥊 **[handverkerapp.com/priskalkulator-1-person-fagsystem-handverker-2026/](https://handverkerapp.com/priskalkulator-1-person-fagsystem-handverker-2026/)**
+- 🥊 **[handverkerapp.com/ehf-faktura-sjekk-handverkere-2026/](https://handverkerapp.com/ehf-faktura-sjekk-handverkere-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-fiken-2026/](https://handverkerapp.com/avantium-vs-fiken-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-tripletex-2026/](https://handverkerapp.com/avantium-vs-tripletex-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-svenn-2026/](https://handverkerapp.com/avantium-vs-svenn-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-drifti-2026/](https://handverkerapp.com/avantium-vs-drifti-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-smartdok-2026/](https://handverkerapp.com/avantium-vs-smartdok-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-holte-2026/](https://handverkerapp.com/avantium-vs-holte-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-cordel-2026/](https://handverkerapp.com/avantium-vs-cordel-2026/)**
+- 🥊 **[handverkerapp.com/avantium-vs-speedycraft-2026/](https://handverkerapp.com/avantium-vs-speedycraft-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

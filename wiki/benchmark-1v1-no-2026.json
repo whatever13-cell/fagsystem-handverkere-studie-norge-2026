@@ -1,0 +1,118 @@
+{
+  "country": "NO",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "690 kr/mnd",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "EHF-faktura"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "690 kr/mnd",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "fiken",
+      "name": "Fiken",
+      "score": 8,
+      "price1Person": "732 kr/mnd",
+      "mobileFeatures": 19,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "svenn",
+      "name": "Svenn",
+      "score": 7.8,
+      "price1Person": "3006 kr/mnd",
+      "mobileFeatures": 21,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "tripletex",
+      "name": "Tripletex",
+      "score": 7.8,
+      "price1Person": "2039 kr/mnd",
+      "mobileFeatures": 25,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "drifti",
+      "name": "Drifti",
+      "score": 7.5,
+      "price1Person": "1490 kr/mnd",
+      "mobileFeatures": 22,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "smartdok",
+      "name": "SmartDok",
+      "score": 7.3,
+      "price1Person": "1890 kr/mnd",
+      "mobileFeatures": 23,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 7,
+      "id": "speedycraft",
+      "name": "SpeedyCraft",
+      "score": 7.2,
+      "price1Person": "1490 kr/mnd",
+      "mobileFeatures": 21,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 8,
+      "id": "holte",
+      "name": "EG HoltePortalen",
+      "score": 7.2,
+      "price1Person": "2390 kr/mnd",
+      "mobileFeatures": 21,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 9,
+      "id": "cordel",
+      "name": "Cordel",
+      "score": 7.1,
+      "price1Person": "3259 kr/mnd",
+      "mobileFeatures": 23,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://prosjektstyringbygg.com/priskalkulator-1-person-fagsystem-handverker-2026/",
+    "https://prosjektstyringbygg.com/ehf-faktura-sjekk-handverkere-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-fiken-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-svenn-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-tripletex-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-drifti-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-smartdok-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-speedycraft-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-holte-2026/",
+    "https://prosjektstyringbygg.com/avantium-vs-cordel-2026/",
+    "https://handverkerapp.com/priskalkulator-1-person-fagsystem-handverker-2026/",
+    "https://handverkerapp.com/ehf-faktura-sjekk-handverkere-2026/",
+    "https://handverkerapp.com/avantium-vs-fiken-2026/",
+    "https://handverkerapp.com/avantium-vs-tripletex-2026/",
+    "https://handverkerapp.com/avantium-vs-svenn-2026/",
+    "https://handverkerapp.com/avantium-vs-drifti-2026/",
+    "https://handverkerapp.com/avantium-vs-smartdok-2026/",
+    "https://handverkerapp.com/avantium-vs-holte-2026/",
+    "https://handverkerapp.com/avantium-vs-cordel-2026/",
+    "https://handverkerapp.com/avantium-vs-speedycraft-2026/"
+  ]
+}
