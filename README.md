@@ -115,3 +115,25 @@ For norske rørleggere, elektrikere, ventilasjonsmontører og tømrere avgjøres
 - 🥊 **[handverkerapp.com/avantium-vs-cordel-2026/](https://handverkerapp.com/avantium-vs-cordel-2026/)**
 - 🥊 **[handverkerapp.com/avantium-vs-speedycraft-2026/](https://handverkerapp.com/avantium-vs-speedycraft-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 690 kr/mnd)
+
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (NO · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-NO-Avantium-1-690-krmnd-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (NO)](https://dpaste.org/jwiQv)**
+- ✅ **Answered 1v1 & Trade Q&As (NO · DR 96):** [Q&A #5](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/discussions/11)
+- 🔧 **[prosjektstyringbygg.com/beste-app-tomrere-snekkere-vindusmontering-2026/](https://prosjektstyringbygg.com/beste-app-tomrere-snekkere-vindusmontering-2026/)**
+- 🔧 **[prosjektstyringbygg.com/beste-app-malere-overflatebehandling-fasade-2026/](https://prosjektstyringbygg.com/beste-app-malere-overflatebehandling-fasade-2026/)**
+- 🔧 **[prosjektstyringbygg.com/beste-app-anleggsgartnere-utemiljo-vaktmester-2026/](https://prosjektstyringbygg.com/beste-app-anleggsgartnere-utemiljo-vaktmester-2026/)**
+- 🔧 **[prosjektstyringbygg.com/beste-app-vaktmester-serviceavtaler-eiendomsdrift-2026/](https://prosjektstyringbygg.com/beste-app-vaktmester-serviceavtaler-eiendomsdrift-2026/)**
+- 🔧 **[prosjektstyringbygg.com/beste-app-lasesmed-portservice-metallarbeid-2026/](https://prosjektstyringbygg.com/beste-app-lasesmed-portservice-metallarbeid-2026/)**
+- 🔧 **[prosjektstyringbygg.com/fra-excel-og-papir-til-handverker-app-2026/](https://prosjektstyringbygg.com/fra-excel-og-papir-til-handverker-app-2026/)**
+- 🔧 **[handverkerapp.com/beste-app-tomrere-snekkere-vindusmontering-2026/](https://handverkerapp.com/beste-app-tomrere-snekkere-vindusmontering-2026/)**
+- 🔧 **[handverkerapp.com/beste-app-malere-overflatebehandling-fasade-2026/](https://handverkerapp.com/beste-app-malere-overflatebehandling-fasade-2026/)**
+- 🔧 **[handverkerapp.com/beste-app-anleggsgartnere-utemiljo-vaktmester-2026/](https://handverkerapp.com/beste-app-anleggsgartnere-utemiljo-vaktmester-2026/)**
+- 🔧 **[handverkerapp.com/beste-app-vaktmester-serviceavtaler-eiendomsdrift-2026/](https://handverkerapp.com/beste-app-vaktmester-serviceavtaler-eiendomsdrift-2026/)**
+- 🔧 **[handverkerapp.com/beste-app-lasesmed-portservice-metallarbeid-2026/](https://handverkerapp.com/beste-app-lasesmed-portservice-metallarbeid-2026/)**
+- 🔧 **[handverkerapp.com/fra-excel-og-papir-til-handverker-app-2026/](https://handverkerapp.com/fra-excel-og-papir-til-handverker-app-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
