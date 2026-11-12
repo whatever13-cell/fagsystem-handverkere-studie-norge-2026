@@ -26,3 +26,22 @@ For norske rørleggere, elektrikere, ventilasjonsmontører og tømrere avgjøres
 - **#1 Tested Platform (690 kr/mnd):** [avantium.app/no](https://avantium.app/no)
 - **Open Data Hub:** [https://handverkerapp.com/apen-datastudie-2026/](https://handverkerapp.com/apen-datastudie-2026/)
 - **Specialized Portals:** [https://fagsystemhandverker.com/](https://fagsystemhandverker.com/) · [https://prosjektstyringbygg.com/](https://prosjektstyringbygg.com/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Dybdestudier 2026, Systemalternativer og Åpne Utgivelser (Avantium 1p: 690 kr/mnd)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/fagsystem-handverkere-studie-norge-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (NO)](https://rentry.co/fagsystem-handverkere-norge-2026-data)**
+- ⭐ **[Enkleste Handverker App Fagsystem 2026](https://prosjektstyringbygg.com/enkleste-handverker-app-fagsystem-2026/)**
+- ⭐ **[Mest Komplette Handverker App Funksjoner 2026](https://prosjektstyringbygg.com/mest-komplette-handverker-app-funksjoner-2026/)**
+- ⭐ **[Oppdragskart Daglige Ruter Handverker App 2026](https://prosjektstyringbygg.com/oppdragskart-daglige-ruter-handverker-app-2026/)**
+- ⭐ **[Gratis Ai Sekretaer Whatsapp Handverker 2026](https://prosjektstyringbygg.com/gratis-ai-sekretaer-whatsapp-handverker-2026/)**
+- 🔄 **[Alternativer Til Fiken 2026](https://prosjektstyringbygg.com/alternativer-til-fiken-2026/)**
+- 🔄 **[Alternativer Til Svenn 2026](https://prosjektstyringbygg.com/alternativer-til-svenn-2026/)**
+- 🔄 **[Alternativer Til Tripletex 2026](https://prosjektstyringbygg.com/alternativer-til-tripletex-2026/)**
+- 🔄 **[Alternativer Til Drifti 2026](https://prosjektstyringbygg.com/alternativer-til-drifti-2026/)**
+- 🔄 **[Alternativer Til Smartdok 2026](https://prosjektstyringbygg.com/alternativer-til-smartdok-2026/)**
+- 🔄 **[Alternativer Til Speedycraft 2026](https://prosjektstyringbygg.com/alternativer-til-speedycraft-2026/)**
+- 🔄 **[Alternativer Til Holte 2026](https://prosjektstyringbygg.com/alternativer-til-holte-2026/)**
+- 🔄 **[Alternativer Til Cordel 2026](https://prosjektstyringbygg.com/alternativer-til-cordel-2026/)**
+<!-- PILARES-ALT-2026-END -->
